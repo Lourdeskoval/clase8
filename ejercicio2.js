@@ -11,4 +11,5 @@ else if(numero <0){
 console.log(`el numero ${numero} que ingresaste es negativo`)
 }
 else {
-    console,log(`lo que ingresaste no es un numero`)}
+    console.log(`lo que ingresaste no es un numero`)}
+    
